@@ -1,0 +1,17 @@
+bin/
+*.exe
+*.log
+*.db
+*.sqlite
+vendor/
+.env
+coverage.out
+.DS_Store
+/server
+
+# Go artifact
+*.test
+
+# IDE
+.vscode/
+.idea/
